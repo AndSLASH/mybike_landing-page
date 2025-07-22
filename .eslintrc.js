@@ -9,7 +9,4 @@ module.exports = {
     browser: true,
     node: true,
   },
-  rules: {
-    'quotes': ['error', 'single'],
-  },
 };
